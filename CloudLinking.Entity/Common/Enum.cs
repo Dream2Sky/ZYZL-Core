@@ -6,7 +6,7 @@ namespace CloudLinking.Entity.Common
 {
     public static class Enum
     {
-        enum HTTP_SUCCESS
+        public enum HTTP_SUCCESS
         {
             SUCCESS,
             FAIL

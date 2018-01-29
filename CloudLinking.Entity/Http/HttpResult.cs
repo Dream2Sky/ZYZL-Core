@@ -14,7 +14,7 @@ namespace CloudLinking.Entity.Http
         /// <summary>
         /// 请求结果返回代码
         /// </summary>
-        public string Code { get; set; }
+        public int Code { get; set; }
 
         /// <summary>
         /// 返回信息
