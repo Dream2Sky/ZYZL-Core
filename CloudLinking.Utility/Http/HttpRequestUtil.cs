@@ -4,6 +4,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using CloudLinking.Entity.Http;
 using Newtonsoft.Json;
 
 namespace CloudLinking.Utility.Http
@@ -38,6 +39,20 @@ namespace CloudLinking.Utility.Http
             Task<string> temp = resp.Content.ReadAsStringAsync();
             temp.Wait();
             return JsonConvert.DeserializeObject<T>(temp.Result);
+        }
+
+        public static HttpResult<T> GetHttpResponse<T>(Entity.Common.Enum.HTTP_SUCCESS status,
+            Entity.Common.Enum.HTTP_STATUS_CODE statusCode, string msg, T data)
+        {
+            HttpResult<T> httpResult = new HttpResult<T>
+            {
+                Success = Convert.ToString(status),
+                Code = (int)statusCode,
+                Msg = msg,
+                Data = data
+            };
+
+            return httpResult;
         }
     }
 }

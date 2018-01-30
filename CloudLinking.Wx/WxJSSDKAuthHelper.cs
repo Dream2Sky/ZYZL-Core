@@ -47,7 +47,7 @@ namespace CloudLinking.Wx
             WxJSSDKConfig config = new WxJSSDKConfig();
             config.AppId = context.AuthInfo.AppId;
             config.TimeStamp = Convert.ToString(DateTimeUtil.GetCurrentTimeStamp());
-            config.Signature = WxUtil.GetSignture(context, url, config.TimeStamp);
+            config.Signature = WxUtil.GetSignture(GetWxTicket(context).Ticket, context.NonceStr, url, config.TimeStamp);
             config.NonceStr = context.NonceStr;
 
             return config;

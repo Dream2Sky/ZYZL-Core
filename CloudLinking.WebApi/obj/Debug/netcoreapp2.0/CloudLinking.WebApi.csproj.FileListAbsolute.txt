@@ -15,3 +15,20 @@ D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp
 D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.AssemblyInfo.cs
 D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.dll
 D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.pdb
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.WebApi.deps.json
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.WebApi.runtimeconfig.json
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.WebApi.runtimeconfig.dev.json
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.WebApi.dll
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.WebApi.pdb
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.Entity.dll
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.Utility.dll
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.Wx.dll
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.Entity.pdb
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.Utility.pdb
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\bin\Debug\netcoreapp2.0\CloudLinking.Wx.pdb
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.csprojResolveAssemblyReference.cache
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.csproj.CoreCompileInputs.cache
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.AssemblyInfoInputs.cache
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.AssemblyInfo.cs
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.dll
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Debug\netcoreapp2.0\CloudLinking.WebApi.pdb

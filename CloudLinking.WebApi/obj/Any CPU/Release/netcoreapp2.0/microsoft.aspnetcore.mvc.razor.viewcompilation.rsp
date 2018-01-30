@@ -1,0 +1,5 @@
+D:\Apps\Core\CloudLinking\CloudLinking.WebApi
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=CloudLinking.WebApi
+--content-root=D:\Apps\Core\CloudLinking\CloudLinking.WebApi
+--file=

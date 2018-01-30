@@ -9,3 +9,12 @@ D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Entity\obj\Debug\netcoreapp
 D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Entity\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
 D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Entity\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml
 D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Entity\obj\Debug\netcoreapp2.0\CloudLinking.Entity.csprojResolveAssemblyReference.cache
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Debug\netcoreapp2.0\CloudLinking.Entity.csproj.CoreCompileInputs.cache
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Debug\netcoreapp2.0\CloudLinking.Entity.AssemblyInfoInputs.cache
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Debug\netcoreapp2.0\CloudLinking.Entity.AssemblyInfo.cs
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Debug\netcoreapp2.0\CloudLinking.Entity.dll
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Debug\netcoreapp2.0\CloudLinking.Entity.pdb
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\bin\Debug\netcoreapp2.0\CloudLinking.Entity.deps.json
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\bin\Debug\netcoreapp2.0\CloudLinking.Entity.dll
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\bin\Debug\netcoreapp2.0\CloudLinking.Entity.pdb
+D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Debug\netcoreapp2.0\CloudLinking.Entity.csprojResolveAssemblyReference.cache

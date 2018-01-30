@@ -11,5 +11,12 @@ namespace CloudLinking.Entity.Common
             SUCCESS,
             FAIL
         }
+
+        public enum HTTP_STATUS_CODE
+        {
+            ERROR = -1,
+            SUCCESS = 100,
+            DATAEMPTY = 101
+        }
     }
 }
