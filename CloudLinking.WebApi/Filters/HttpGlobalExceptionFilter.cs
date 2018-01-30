@@ -5,6 +5,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace CloudLinking.WebApi.Filters
@@ -28,8 +29,11 @@ namespace CloudLinking.WebApi.Filters
             result.Code = -1;
             result.Msg = context.Exception.Message;
 
-            context.Result = result;
-            throw new NotImplementedException();
+            ResultContainer resultContainer = new ResultContainer(result);
+
+            context.Result = resultContainer;
+            context.HttpContext.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+            context.ExceptionHandled = true;
         }
     }
 }

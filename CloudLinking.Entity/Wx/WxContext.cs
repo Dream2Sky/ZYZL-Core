@@ -46,5 +46,7 @@ namespace CloudLinking.Entity.Wx
             get { return ticket; }
             set { ticket = value; }
         }
+
+        public string NonceStr { get; } = "b33b5f905e844a62931fe7ebfb846c9f";
     }
 }

@@ -26,7 +26,6 @@ namespace CloudLinking.Utility.Http
             {
                 content.Headers.ContentType = new MediaTypeHeaderValue("application/x-www-form-urlencoded");
                 content.Headers.ContentType.CharSet = "UTF-8";
-
             }
             var request = new HttpRequestMessage()
             {

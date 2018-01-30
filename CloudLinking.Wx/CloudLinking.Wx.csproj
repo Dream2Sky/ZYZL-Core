@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CloudLinking.Entity\CloudLinking.Entity.csproj" />
+    <ProjectReference Include="..\CloudLinking.Utility\CloudLinking.Utility.csproj" />
+  </ItemGroup>
+
 </Project>

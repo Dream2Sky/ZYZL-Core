@@ -1,0 +1,15 @@
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\obj\Debug\netcoreapp2.0\CloudLinking.Wx.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\obj\Debug\netcoreapp2.0\CloudLinking.Wx.AssemblyInfoInputs.cache
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\obj\Debug\netcoreapp2.0\CloudLinking.Wx.AssemblyInfo.cs
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\CloudLinking.Wx.deps.json
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\CloudLinking.Wx.dll
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\CloudLinking.Wx.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\CloudLinking.Entity.dll
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\CloudLinking.Utility.dll
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\CloudLinking.Entity.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\CloudLinking.Utility.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Mvc.Core.xml
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\obj\Debug\netcoreapp2.0\CloudLinking.Wx.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\obj\Debug\netcoreapp2.0\CloudLinking.Wx.dll
+D:\WorkSpace\Cloud Linking\CloudLinking\CloudLinking.Wx\obj\Debug\netcoreapp2.0\CloudLinking.Wx.pdb

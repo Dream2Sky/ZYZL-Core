@@ -26,10 +26,5 @@ namespace CloudLinking.Entity.Wx
         /// </summary>
         public string Signature { get; set; }
 
-        /// <summary>
-        /// 需要使用的JS接口列表
-        /// </summary>
-        public string[] JsApiList { get; set; }
-
     }
 }

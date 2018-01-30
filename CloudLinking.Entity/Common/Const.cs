@@ -13,5 +13,13 @@ namespace CloudLinking.Entity.Common
                 return "https://api.weixin.qq.com/cgi-bin/token";
             }
         }
+
+        public static string WxTicketUrl
+        {
+            get
+            {
+                return "https://api.weixin.qq.com/cgi-bin/ticket/getticket";
+            }
+        }
     }
 }
