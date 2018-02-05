@@ -1,15 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLinking.WebApi", "CloudLinking.WebApi\CloudLinking.WebApi.csproj", "{E0ED3E57-F089-4F0A-BF9D-4B4500C08764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudLinking.WebApi", "CloudLinking.WebApi\CloudLinking.WebApi.csproj", "{E0ED3E57-F089-4F0A-BF9D-4B4500C08764}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLinking.Entity", "CloudLinking.Entity\CloudLinking.Entity.csproj", "{81E12C3C-5E25-4391-BF93-E8AA06959C69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudLinking.Entity", "CloudLinking.Entity\CloudLinking.Entity.csproj", "{81E12C3C-5E25-4391-BF93-E8AA06959C69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLinking.Wx", "CloudLinking.Wx\CloudLinking.Wx.csproj", "{808FFB7E-AD49-4287-A3FC-9C0AFAFADE1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudLinking.Wx", "CloudLinking.Wx\CloudLinking.Wx.csproj", "{808FFB7E-AD49-4287-A3FC-9C0AFAFADE1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLinking.Utility", "CloudLinking.Utility\CloudLinking.Utility.csproj", "{7EEA9CE9-9637-4572-A1BC-23AB422EB7C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudLinking.Utility", "CloudLinking.Utility\CloudLinking.Utility.csproj", "{7EEA9CE9-9637-4572-A1BC-23AB422EB7C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLinking.Business", "CloudLinking.Business\CloudLinking.Business.csproj", "{D47C9FC0-48DA-4165-B855-BF9251A0105C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudLinking.Services", "CloudLinking.Services\CloudLinking.Services.csproj", "{4D2AB5D6-F731-4B1E-83C6-C7ECF35750D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{7EEA9CE9-9637-4572-A1BC-23AB422EB7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EEA9CE9-9637-4572-A1BC-23AB422EB7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EEA9CE9-9637-4572-A1BC-23AB422EB7C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47C9FC0-48DA-4165-B855-BF9251A0105C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47C9FC0-48DA-4165-B855-BF9251A0105C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47C9FC0-48DA-4165-B855-BF9251A0105C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47C9FC0-48DA-4165-B855-BF9251A0105C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2AB5D6-F731-4B1E-83C6-C7ECF35750D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2AB5D6-F731-4B1E-83C6-C7ECF35750D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2AB5D6-F731-4B1E-83C6-C7ECF35750D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2AB5D6-F731-4B1E-83C6-C7ECF35750D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

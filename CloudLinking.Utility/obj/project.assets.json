@@ -2118,11 +2118,13 @@
       ]
     },
     "Newtonsoft.Json/10.0.3": {
-      "sha512": "hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
+      "sha512": "wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
       "type": "package",
       "path": "newtonsoft.json/10.0.3",
       "files": [
         "LICENSE.md",
+        "Newtonsoft.Json.10.0.3.nupkg.sha512",
+        "Newtonsoft.Json.nuspec",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -2139,8 +2141,6 @@
         "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
         "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
-        "newtonsoft.json.10.0.3.nupkg.sha512",
-        "newtonsoft.json.nuspec",
         "tools/install.ps1"
       ]
     },
@@ -4519,8 +4519,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\petrel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\HSZC1701-0003\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -4529,20 +4528,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Apps\\Core\\CloudLinking\\CloudLinking.Utility\\CloudLinking.Utility.csproj",
+      "projectUniqueName": "D:\\WorkSpace\\Cloud Linking\\CloudLinking.Utility\\CloudLinking.Utility.csproj",
       "projectName": "CloudLinking.Utility",
-      "projectPath": "D:\\Apps\\Core\\CloudLinking\\CloudLinking.Utility\\CloudLinking.Utility.csproj",
-      "packagesPath": "C:\\Users\\petrel\\.nuget\\packages\\",
-      "outputPath": "D:\\Apps\\Core\\CloudLinking\\CloudLinking.Utility\\obj\\",
+      "projectPath": "D:\\WorkSpace\\Cloud Linking\\CloudLinking.Utility\\CloudLinking.Utility.csproj",
+      "packagesPath": "C:\\Users\\HSZC1701-0003\\.nuget\\packages\\",
+      "outputPath": "D:\\WorkSpace\\Cloud Linking\\CloudLinking.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\petrel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\HSZC1701-0003\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -4554,8 +4551,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Apps\\Core\\CloudLinking\\CloudLinking.Entity\\CloudLinking.Entity.csproj": {
-              "projectPath": "D:\\Apps\\Core\\CloudLinking\\CloudLinking.Entity\\CloudLinking.Entity.csproj"
+            "D:\\WorkSpace\\Cloud Linking\\CloudLinking.Entity\\CloudLinking.Entity.csproj": {
+              "projectPath": "D:\\WorkSpace\\Cloud Linking\\CloudLinking.Entity\\CloudLinking.Entity.csproj"
             }
           }
         }

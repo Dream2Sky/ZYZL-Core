@@ -15,3 +15,26 @@ D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLin
 D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.AssemblyInfo.cs
 D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.dll
 D:\Apps\Core\CloudLinking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.WebApi.deps.json
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.WebApi.runtimeconfig.json
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.WebApi.runtimeconfig.dev.json
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.WebApi.dll
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.WebApi.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.Entity.dll
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.Utility.dll
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.Wx.dll
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.Entity.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.Utility.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\bin\Release\netcoreapp2.0\CloudLinking.Wx.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.AssemblyInfoInputs.cache
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.AssemblyInfo.cs
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.dll
+D:\WorkSpace\Cloud Linking\CloudLinking.WebApi\obj\Release\netcoreapp2.0\CloudLinking.WebApi.pdb
+D:\WorkSpace\Cloud Linking\lib\netcoreapp2.0\CloudLinking.WebApi.deps.json
+D:\WorkSpace\Cloud Linking\lib\netcoreapp2.0\CloudLinking.WebApi.runtimeconfig.json
+D:\WorkSpace\Cloud Linking\lib\netcoreapp2.0\CloudLinking.WebApi.runtimeconfig.dev.json
+D:\WorkSpace\Cloud Linking\lib\netcoreapp2.0\CloudLinking.WebApi.dll
+D:\WorkSpace\Cloud Linking\lib\netcoreapp2.0\CloudLinking.WebApi.pdb
+D:\WorkSpace\Cloud Linking\lib\netcoreapp2.0\nlog.config

@@ -1,0 +1,12 @@
+2018-02-05 16:37:11.0381|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/test/auth2/test  
+2018-02-05 16:37:11.1897|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CloudLinking.WebApi.Controllers.Auth2Controller.Test (CloudLinking.WebApi) with arguments ((null)) - ModelState is Valid
+2018-02-05 16:37:11.1897|INFO|CloudLinking.WebApi.Controllers.Auth2Controller|test core
+2018-02-05 16:37:11.1897|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 200
+2018-02-05 16:37:11.2053|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CloudLinking.WebApi.Controllers.Auth2Controller.Test (CloudLinking.WebApi) in 20.8922ms
+2018-02-05 16:37:11.2053|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 179.788ms 200 
+2018-02-05 16:37:19.2663|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/test/auth2/test  
+2018-02-05 16:37:19.2663|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CloudLinking.WebApi.Controllers.Auth2Controller.Test (CloudLinking.WebApi) with arguments ((null)) - ModelState is Valid
+2018-02-05 16:37:19.2663|INFO|CloudLinking.WebApi.Controllers.Auth2Controller|test core
+2018-02-05 16:37:19.2663|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 200
+2018-02-05 16:37:19.2663|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CloudLinking.WebApi.Controllers.Auth2Controller.Test (CloudLinking.WebApi) in 1.2591ms
+2018-02-05 16:37:19.2663|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 2.4935ms 200 

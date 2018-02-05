@@ -7,3 +7,12 @@ D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLin
 D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.AssemblyInfo.cs
 D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.dll
 D:\Apps\Core\CloudLinking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\bin\Release\netcoreapp2.0\CloudLinking.Entity.deps.json
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\bin\Release\netcoreapp2.0\CloudLinking.Entity.dll
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\bin\Release\netcoreapp2.0\CloudLinking.Entity.pdb
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.AssemblyInfoInputs.cache
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.AssemblyInfo.cs
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.dll
+D:\WorkSpace\Cloud Linking\CloudLinking.Entity\obj\Release\netcoreapp2.0\CloudLinking.Entity.pdb
